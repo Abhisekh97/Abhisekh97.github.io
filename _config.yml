@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abhisekh Agarwala"
+title                    : "Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Abhisekh Agarwala"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Abhisekh97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Abhisekh97/Abhisekh97.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Abhisekh Agarwala"
   pronouns         : # example: "she/her"  
-  bio              : "A Machine Learning Engineer. "Building intelligent systems through data-driven insights and algorithms."
+  bio              : "A Machine Learning Engineer. Passionate machine learning engineer adept at transforming complex data into actionable insights through advanced algorithms and model development."
   location         : "Earth"
   employer         : "Jio Platforms Limited"
   uri              : # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : #"http://orcid.org/yourorcidurl"
   # semantic         : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
 
   # Repositories and software development
@@ -44,8 +44,8 @@ author:
   # codepen          : # Username
   # dribbble         : # Username
   github           : "Abhisekh97"
-  kaggle           : "neptunium" 
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : "neptunium"
+  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   # bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -55,17 +55,17 @@ author:
   # goodreads        : # Username
   # google_plus      : # Username
   # keybase          : # Username
-  instagram        : # Username
+  # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "abhisekhagarwala"
+  linkedin         :  "abhisekhagarwala"
   # mastodon         : # URL
-  medium           :  "@abhisekhagarwala"
+  medium           :  "abhisekhagarwala"
   # pinterest        : # Username
   # soundcloud       : # Username
   # steam            : # Username
   # telegram         : # URL
   # tumblr           : # Username
-  twitter          : "@abhi_ag97"
+  twitter          : "abhi_ag97"
   # vine             : # Username
   # weibo            : # Username
   # wikipedia        : # Username

@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MakeMoreName"
+excerpt: "Generate cool and unique names using Makemore<br/><img src='/images/500x300.png'>"
 collection: portfolio
+
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+MakeMoreName is a genAI solution to generate cool and unique names. You can check out the code [here](https://github.com/Abhisekh97/MakeMoreName).
+Description is written in the [github](https://github.com/Abhisekh97/MakeMoreName) readme file. It's a work in progress more work is yet to be done.
+
+## Future Scope -
+- Deploy the model and serve them via an Flask API endpoint. 
+- Build a Frontend using Streamlit and make it available for the public to use.
