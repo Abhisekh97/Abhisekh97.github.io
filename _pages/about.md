@@ -31,3 +31,7 @@ redirect_from:
 4. [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/records/RDZVRCAQEQBZ)
 
 5. [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/records/H3ZDCGSBX56M)
+
+# 📸Photography and Travel
+
+ As a passionate photography and travel enthusiast, I capture the world through a lens, seeking out the beauty in diverse landscapes and vibrant cultures. My work is a reflection of my adventures, showcasing moments that tell a story and evoke emotion. Join me as I explore new places and share the extraordinary through my photographs.

@@ -15,7 +15,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  
+  - title: "Travel & Photography"
+    url: /travel_photography/
+    
   # - title: "Teaching"
   #   url: /teaching/    
     
